@@ -1,4 +1,0 @@
-ilikebeer
-=========
-
-Hamid likes beer
