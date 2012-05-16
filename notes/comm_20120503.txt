@@ -1,0 +1,98 @@
+
+
+Outstanding Questions
+
+
+# Is any content cross over between myKmart & mySears
+# Same group managing both properties
+# Are the sites going to look similar? Exactly the same?
+# Will both sites have the same functionality
+# Clarify the sign-in piece. Existing, New
+
+
+
+Possible Plugins
+
+Syndication
+http://wordpress.org/extend/plugins/json-api/
+
+LDAP
+
+http://wordpress.org/extend/plugins/active-directory-integration/
+http://wordpress.org/extend/plugins/simple-ldap-login/
+
+profanity
+
+http://wordpress.org/extend/plugins/webpurifytextreplace/
+
+Analytics
+
+http://wordpress.org/extend/plugins/google-analytics-for-wordpress/
+
+Sitemap
+
+http://wordpress.org/extend/plugins/google-sitemap-generator/
+
+Cache 
+
+http://wordpress.org/extend/plugins/w3-total-cache/
+
+Social Media
+
+http://wordpress.org/extend/plugins/addthis/
+
+
+* Build 
+
+SSO - authentication
+Profile - capture user data points
+Q & A - JS Widget
+Theme
+External User Admin interface
+
+Articles - 
+Blog
+Q & A
+
+
+* WordPress
+
+content
+comments
+taxonomy
+moderation (simple)
+RSS
+
+
+* Migration
+
+Low - them create a file dump via WXR
+Medium - some exporter
+High - custom batch. multiple files
+
+* Upsell
+
+Custom Background - see theme option
+Hero Slider - see featured articles
+Rating  - see jetpack. http://wordpress.org/extend/plugins/gd-star-rating/
+Polls - 
+
+
+
+http://jetpack.me/
+http://wordpress.org/extend/plugins/jetpack/
+
+http://bbpress.org/
+
+
+
+Other Plugins to consider:
+
+http://wordpress.org/extend/plugins/safe-report-comments/screenshots/
+
+http://wordpress.org/extend/plugins/edit-flow/
+
+http://wordpress.org/extend/plugins/ad-code-manager/
+
+
+

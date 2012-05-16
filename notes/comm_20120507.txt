@@ -1,0 +1,71 @@
+
+May 7 2012
+
+Topic
+Communities
+
+
+
+Document "Requirements Doc_communities platform_v1 12.docx"
+
+3.6.1 - need a settings page to stop emails coming from questins
+
+3.7.1
+
+Vendor (non-ldap) can have badges. Anyone can have a badge
+
+How do we differetiate between so if CCN and employees are all ldap, how do we differentiate between the two?
+
+
+3.8
+
+social media buttons in-scope
+
+
+3.9.2
+
+FAQ tag to create an FAQ page
+
+3.11.1
+
+Templates with graceful degredation for non content areas
+
+
+3.13.2
+
+Responsys - Judy to work them
+
+3.15.1
+
+Polls Phase 1
+
+
+
+
+Document - "Requirements Doc_communities moderation_v1.5.docx"
+
+
+3.1 
+
+An employee can have an ecommerce, SSO, account. Need to look for the employee ID on their profile.
+
+
+3.3.1
+
+3.3.2 - Possible phase 2, but need to interface CQ5
+
+3.3.3 Images they are asking
+
+3.3.4 PDF upload???
+
+3.6 Build Only
+
+3.9.1
+Oldest filters to the top and filter by category
+
+
+
+Follow Up 
+
+Schedule a meeting with Scott Stokee
+

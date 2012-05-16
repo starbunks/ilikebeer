@@ -1,0 +1,60 @@
+May 9, 2012
+
+h2. todo
+
+Email Praven RE view points engagement
+Schedule a meeting with Scott Stokee
+
+
+
+
+Requirements Doc_communities moderation_v1 6.docx
+
+
+3.3.2 
+
+Dependent on - CQ5
+
+
+3.3.3 - Image and Video Management (Blogger / Moderator / Admin)
+
+Video embed only
+Images will be on an NFS mount
+Media search limited to images uploaded
+
+Training
+
+
+Voting ability to ban by IP Address
+
+
+3.3.5 is templates
+
+
+3.4.1 - profanity filter that can take a list of profanity to check against. They are doing it for rating and reviews
+
+Schedule a meeting Pavan
+
+3.4.4 - need to add comment box by flagging
+
+
+3.4.5 - Poll Daddy, meet with Frank to see what he wants? $1,000
+
+
+3.5.3 - Live LDAP check when the log in.
+
+Need to test what happens when you delete the account.
+
+
+3.6 - Reporting
+
+JetPack Reporting
+
+
+
+
+ 
+
+
+
+

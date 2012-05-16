@@ -1,0 +1,58 @@
+May 4, 2012
+
+
+
+
+SSO is big
+
+3.2.1 Profile photo - nice to have
+
+3.2.3 mailto - should be a form
+
+3.3.3 - featured link in header
+
+3.3.4 - just a link to wcs
+
+3.4.1 - no logged in home page. Build in capability to do this.
+
+
+3.5.1 - Do not have to be logged in to vote for a question. "Vote an answer helpful"
+
+
+Answers - anyone logged in can answer question. Experts to post hyperlinks only.
+
+Share - FB Like, Tweet, Google+, SYW
+
+
+3.5.2 - Merchandise Q&A for syndication. They would like it dynamically working; know 
+
+Buying Guides - different type of blog.
+
+
+Flagging comments - keep track of flagging. All flagging cause into moderation.
+
+
+Notification on a specific question - near time throttle, 
+
+category, respond to your category. 
+
+
+3.5.7 - ldap. Reach out to Praven because he needs it for Products Ratings
+
+3.7.1 - badges are all manual
+
+3.9.1 - Interest page; this will be created by a moderator
+
+
+3.12.1 - Add Units. Use CQ5, but they can not work on it until WCS lockdown
+
+
+
+
+
+
+
+Only Admin can creategoires.
+
+Restict monderating from creating new categories.
+

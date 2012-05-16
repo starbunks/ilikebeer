@@ -1,0 +1,60 @@
+May 12, 2012
+
+
+Technical Solution for Communities Project
+
+Core Functionality
+
+Admin controled content - Article, Blog, Buying Guides
+Question & Answers
+Single Sign-On (SSO) - User login
+LDAP Login - Admin Login
+Interest Page - Template pages published by an editor based on taxonomy.
+
+
+Dependencies
+
+Sears Single Sign-On (SSO)
+LDAP 
+Twitter
+Facebook
+
+
+Proposed solution
+
+WordPress 
+
+N-Number of usering facing WordPress servers
+Segragated Admin server
+Cacheing server for scalability
+
+
+Pros
+
+Built-in: Content editing and publishing
+Built-in: Comments
+Built-in: Taxonomy (multiple and custom)
+Built-in: Moderation (simple)
+Built-in: RSS for syndication
+Extend content and comments for Q & A
+Built-in: Admin (LDAP)
+Mature software platform (10+ years)
+Huge (10,000+) open source community continuously testing
+Thousands of plugins (specific to: LDAP, Syndication, Profanity Filter, Analytics, Site Map, Cacheing, Social Media)
+Large local (Chicago) PHP community 
+Integrated web development (back end and front end developers sitting together)
+Existing threaded PHP on a scalabilty web tier (NGINX)
+
+
+Cons
+
+No user facing admin (SSO)
+Enterprise acceptance of WordPress
+
+
+
+
+
+FOLLOW UP
+
+Need priority list for 

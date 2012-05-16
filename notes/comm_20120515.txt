@@ -1,0 +1,29 @@
+May 15, 2012
+
+Attendees
+
+J.Massuda
+S.McClain
+J.Cisneros
+
+Q & A Wires Walk Through
+
+
+req 3.5.5
+If I ask a question and an expert answers it then the 'helpful/not helpful' will be 'did this answer my question or did not'
+
+Searching for answers and Question Tags page 9 and 10
+
+Provide tag suggestions for the question being asked
+
+Global Header - use wordpress menus
+
+Number of members are people who 'joined the community'
+
+Worklenz 6064
+
+
+
+
+
+
