@@ -26,12 +26,13 @@ Environments - need software version for NGINX, PHP, MySQL, MemCache, MongoDB. S
 Code - WP, Boiler Plate Theme, List of Plugins, Kohana (API), SaSS (Cap Deploy), Brian & Eddie
 
 
-Front End Question - Tim Steele
+Front End Question - Tim Steele, Jason
 
 html 5
 CSS3
 SaSS (phaml ??) 
 Portal Style Home Page
+Responsive lite 70%
 
 
 Browsers
