@@ -21,7 +21,7 @@ Code - WP, Boiler Plate Theme, List of Plugins, Kohana (API), SaSS (Cap Deploy),
 Front End Question - Tim Steele
 
 html 
-SaSS (phaml ??)
+SaSS (phaml ??) 
 Portal Style Home Page
 
 
@@ -38,4 +38,4 @@ Outstanding Questions -
 1. Auto complete
 2. API
 3. PDFs Manuals
-
+4. SaSS VS Scss
