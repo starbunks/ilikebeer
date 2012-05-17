@@ -14,9 +14,9 @@ Team To Do
 GitHub - collaborator on 
 Local Git for code
 
-Environments - need software version for WP, NGINX, PHP, MySQL
+Environments - need software version for NGINX, PHP, MySQL, MemCache, 
 
-Code - WP, Boiler Plate Theme, List of Plugins
+Code - WP, Boiler Plate Theme, List of Plugins, Kohana
 
 
 
