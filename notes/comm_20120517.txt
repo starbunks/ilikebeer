@@ -14,6 +14,11 @@ Team To Do
 GitHub - collaborator on 
 Local Git for code
 
+Local Environments 
+
+Windows 7, IE9 - Brian
+Windows XP, IE8 - Brian
+
 Environments - need software version for NGINX, PHP, MySQL, MemCache, MongoDB
 
 Code - WP, Boiler Plate Theme, List of Plugins, Kohana (API), SaSS (Cap Deploy), Brian & Eddie
@@ -28,6 +33,11 @@ Portal Style Home Page
 
 
 Browsers
+
+IE9
+IE8
+Chrome
+FF
 
 
 
