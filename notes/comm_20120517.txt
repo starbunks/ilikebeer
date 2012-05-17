@@ -55,7 +55,7 @@ Servers - Daivd Arlt / Yiannia
 Responsys - Judy Massuda, Courtney Nagle, Courtney Green
 SSO - Brian Greenacre, Jonathan Meeks
 LDAP - Jonathan Meeks
-
+View Points - migration?
 
 Outstanding Questions -
 
