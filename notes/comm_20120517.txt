@@ -12,6 +12,7 @@ Team Roles
 Eddie 50% - WP Expert, Code review plugins (community & developed)
 Brian - Code Reviews, SSO, LDAP
 Sebastians - 
+Tim - Wire Reviews
 
 Team To Do
 
@@ -57,6 +58,14 @@ SSO - Brian Greenacre, Jonathan Meeks
 LDAP - Jonathan Meeks
 View Points - migration
 Sears Profile API
+
+Third Party Integration
+
+Google Analystics
+Omniture
+Add This
+Qualtracs
+
 
 Outstanding Questions -
 
