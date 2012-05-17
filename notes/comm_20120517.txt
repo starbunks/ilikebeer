@@ -21,7 +21,7 @@ Windows XP, IE8 - Brian
 
 NGINX Environments - Sebastians Script. Jason & Eddie
 
-Environments - need software version for NGINX, PHP, MySQL, MemCache, MongoDB
+Environments - need software version for NGINX, PHP, MySQL, MemCache, MongoDB. Sebastian
 
 Code - WP, Boiler Plate Theme, List of Plugins, Kohana (API), SaSS (Cap Deploy), Brian & Eddie
 
