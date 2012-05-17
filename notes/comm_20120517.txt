@@ -10,7 +10,7 @@ Kick off next Monday May 21, 2012
 Team Roles
 
 Eddie 50% - WP Expert, Code review plugins (community & developed)
-Brian - Code Reviews, SSO
+Brian - Code Reviews, SSO, LDAP
 
 
 Team To Do
