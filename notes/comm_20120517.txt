@@ -7,6 +7,9 @@ Project: Communities
 
 Kick off next Monday May 21, 2012
 
+Team Roles
+
+Eddie 50% - WP Expert, Code review plugins (community & developed)
 
 
 Team To Do
