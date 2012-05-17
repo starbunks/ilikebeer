@@ -82,3 +82,9 @@ Outstanding Questions -
 					[5/17/12 9:43:43 AM] Jason Corradino: we could look into using one of these for PDF -> text parsing
 4. SaSS VS Scss
 5. Responsive 
+
+
+
+Security Meeting
+UX Blog - terms & privacy, Links on profile page
+
