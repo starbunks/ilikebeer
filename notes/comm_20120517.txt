@@ -11,7 +11,7 @@ Team Roles
 
 Eddie 50% - WP Expert, Code review plugins (community & developed)
 Brian - Code Reviews, SSO, LDAP
-
+Sebastians - 
 
 Team To Do
 
