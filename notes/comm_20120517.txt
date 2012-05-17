@@ -28,3 +28,4 @@ Dependencies / Meetings
 
 Servers - Daivd Arlt / Yiannia
 Responsys - Judy Massuda, Courtney Nagle, Courtney Green
+SSO - Brian Greenacre, Jonathan Meeks
