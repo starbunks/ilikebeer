@@ -16,7 +16,7 @@ Local Git for code
 
 Environments - need software version for NGINX, PHP, MySQL, MemCache, 
 
-Code - WP, Boiler Plate Theme, List of Plugins, Kohana
+Code - WP, Boiler Plate Theme, List of Plugins, Kohana (API)
 
 
 
