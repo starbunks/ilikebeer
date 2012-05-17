@@ -31,3 +31,11 @@ Servers - Daivd Arlt / Yiannia
 Responsys - Judy Massuda, Courtney Nagle, Courtney Green
 SSO - Brian Greenacre, Jonathan Meeks
 LDAP - Jonathan Meeks
+
+
+Outstanding Questions -
+
+1. Auto complete
+2. API
+3. PDFs Manuals
+
