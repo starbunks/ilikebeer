@@ -96,10 +96,11 @@ Wire Frame Review
 
 Deliever - 
 Global Component 
-Share - flagging, report concern, comments
+Wires Delivered 5/18/2012 for Share - flagging, report concern, comments
 
 
 Home Page - Featured Area can be Blog, Article or Q&A 
 
+URLs
 Sears.com/communities
 Kmart.com/communities
