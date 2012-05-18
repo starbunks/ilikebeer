@@ -1,7 +1,7 @@
 May 18, 2012
 
 
-User Profile
+h2. User Profile
 
 Where will the data live?
 
@@ -26,3 +26,9 @@ How to keep a total number of votes, flags and following when displaying the the
 
 
 HyperDB considering
+
+
+
+h2. Interest Pages
+
+Relation Diagram ERD.
