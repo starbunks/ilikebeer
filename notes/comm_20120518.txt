@@ -56,6 +56,11 @@ Screen Name Rules - criteria for creating a name. Will be in final wires. (hand-
 
 Use Cases
 
+0. Existing Sears/Kmart (SSO) User - SIGNED IN
+1. 
+
+
+
 1. Existing Sears/Kmart (SSO) User - SIGNED IN
 2. On communities page and about comment
 
