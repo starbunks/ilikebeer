@@ -17,7 +17,7 @@ Instead the screen name is asked for when a user leaves a comment only. <-- no
 
 If we capture the screen name then we need a way to push screen name back to the universal profile. Yes
 
-Screen Name Rules - criteria for creating a name. Will be in final wires. (hand-off May 21, 2012)
+Screen Name Rules - criteria for creating a name. Will be in final wires. (hand-off May 21, 2012) <-- wouldn't the constraints be dictated by sears SSO, not by their wires?
 
 Use Cases
 
