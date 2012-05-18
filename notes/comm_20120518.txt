@@ -54,7 +54,7 @@ I am lost right now, but we (ENG) can add opt-in for email anywhere you would li
 
 If we capture the screen name then we need a way to push screen name back to the universal profile.
 
-Screen Name Rules - criteria
+Screen Name Rules - criteria for creating a name.
 
 User Stories
 
