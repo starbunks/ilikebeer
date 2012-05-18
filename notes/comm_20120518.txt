@@ -46,10 +46,12 @@ When: 	Friday, May 18, 2012 1:00 PM-1:30 PM
 
 Opting-In for email signups. - We (ENG) can add opt-in for email anywhere the client would like.
 
-Screen Name is not created on.
+Screen Name is not captured when a user create an account for the first time.
+
+Instead the screen name is asked for when a user leaves a comment. 
 
 
-I am lost right now, but we (ENG) can add opt-in for email anywhere you would like
+
 [5/18/12 1:20:48 PM] Brendan Gualdoni: Also, for UGC screen name capture should only happen when adding comments. Is that correct?
 
 If we capture the screen name then we need a way to push screen name back to the universal profile.
@@ -62,6 +64,14 @@ User Stories
 2. On communities page and about comment
 
 Existing Sears/Kmart (SSO) User - NOT SIGNED IN
+
+
+1. Users are on sears profile, the sign in. Simple
+2. Users need to register for the first time.
+3. Users already have a profile, but no screen name, so me make them pick one.
+
+
+
 
 
 
