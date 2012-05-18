@@ -34,6 +34,45 @@ h2. Interest Pages
 Relation Diagram ERD.
 
 
+*-------------------------------------*
+*
+Meeting
+Subject:  	 1-Wireframes - Stakeholder Review of Wires for Login & Registration | 6064 Social Communities Viewpoints Migration
+Location: 	 1-866-621-2140 x100-7286 lc: 6349
+When: 	Friday, May 18, 2012 1:00 PM-1:30 PM
+*
+*-------------------------------------*
 
+
+Opting-In for email signups. - We (ENG) can add opt-in for email anywhere the client would like.
+
+Screen Name is not created on.
+
+
+I am lost right now, but we (ENG) can add opt-in for email anywhere you would like
+[5/18/12 1:20:48 PM] Brendan Gualdoni: Also, for UGC screen name capture should only happen when adding comments. Is that correct?
+
+If we capture the screen name then we need a way to push screen name back to the universal profile.
+
+
+
+User Stories
+
+1. Existing Sears/Kmart (SSO) User - SIGNED IN
+2. On communities page and about comment
+
+Existing Sears/Kmart (SSO) User - NOT SIGNED IN
+
+
+
+
+
+Hamid, BA - on every call
+Brendan, Dir - on every call
+Sebastian, Lead Web Dev  - on every call
+Tim, FE Web Dev - on every call
+Eddie, WordPress Expert - on every call
+Jason, FE Web Dev, WordPress Application Dev - on most of calls
+Brian, Lead Web Dev  - on almost every call
 
 
