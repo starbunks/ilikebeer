@@ -48,15 +48,11 @@ Opting-In for email signups. - We (ENG) can add opt-in for email anywhere the cl
 
 Screen Name is not captured when a user create an account for the first time.
 
-Instead the screen name is asked for when a user leaves a comment. 
+Instead the screen name is asked for when a user leaves a comment only.
 
+If we capture the screen name then we need a way to push screen name back to the universal profile. Yes
 
-
-[5/18/12 1:20:48 PM] Brendan Gualdoni: Also, for UGC screen name capture should only happen when adding comments. Is that correct?
-
-If we capture the screen name then we need a way to push screen name back to the universal profile.
-
-Screen Name Rules - criteria for creating a name.
+Screen Name Rules - criteria for creating a name. Will be in final wires. (hand-off May 21, 2012)
 
 User Stories
 
