@@ -63,6 +63,12 @@ Use Cases
 
 If a new user (no sears or communities) click on ask a question and we prompt them to create an account then we should ask for screen name at the same time.
 
+1.1 User creates an account via SSO
+1.1.2 User Condition 20
+	1.1.3.1 Error
+	1.1.3.2 Continue with UCG
+
+1.2 User creates an account via OpenID (Facebook)
 
 2. Has Sears account. No Communities account
 
