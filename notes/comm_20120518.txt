@@ -68,7 +68,7 @@ If a new user (no sears or communities) click on ask a question and we prompt th
 
 0. User clicks on 'ask question', 'answer question', or 'comment'
 
-
+If someone has a sears account already, then the first time they login to communities through SSO, we check if they have a screen name. If they dont, we require the pick one.
 
 
 
