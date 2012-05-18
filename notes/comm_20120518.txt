@@ -1,0 +1,22 @@
+May 18, 2012
+
+
+User Profile
+
+Where will the data live?
+
+Indicative - User Object / User_Meta
+
+Asking a Question
+
+Answer a Question
+
+Voting
+
+Flagged
+
+Following
+
+
+We need an entity relation diagram.
+
