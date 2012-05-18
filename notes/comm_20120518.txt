@@ -73,6 +73,19 @@ Existing Sears/Kmart (SSO) User - NOT SIGNED IN
 
 
 
+Kathryns Notes
+
+Notes:
+
+-Remove the Receive Communities Stuff check box and combine into the one check box. The eCommerce and community communication will be handled in one checkbox.
+
+-Provide inline screen name experience for those who have not already created one. If we capture the screen name for the first time, we will push it back to the universal profile.
+
+-Remove condition 30
+
+-Page 3 Add all conditions from ratings and reviews for reference for engineering
+
+
 
 
 
