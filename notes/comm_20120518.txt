@@ -69,6 +69,10 @@ If a new user (no sears or communities) click on ask a question and we prompt th
 	1.1.3.2 Continue with UCG
 
 1.2 User creates an account via OpenID (Facebook)
+1.2.2 Facebook Connect
+1.2.3 Ask for screen name
+1.2.4 Continue with UCG
+
 
 2. Has Sears account. No Communities account
 
