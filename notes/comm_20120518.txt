@@ -64,8 +64,11 @@ Use Cases
 If a new user (no sears or communities) click on ask a question and we prompt them to create an account then we should ask for screen name at the same time.
 
 
-0. Existing Sears/Kmart (SSO) User - SIGNED IN
-1. 
+2. Has Sears account. No Communities account
+
+0. User clicks on 'ask question', 'answer question', or 'comment'
+
+
 
 
 
