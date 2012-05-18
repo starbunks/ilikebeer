@@ -17,7 +17,12 @@ Flagged
 
 Following
 
+Badges
+
 
 We need an entity relation diagram.
 
 How to keep a total number of votes, flags and following when displaying the the totals on question, post....
+
+
+HyperDB considering
