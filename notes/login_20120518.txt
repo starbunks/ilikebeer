@@ -11,13 +11,13 @@ When: 	Friday, May 18, 2012 1:00 PM-1:30 PM
 
 Opting-In for email signups. - We (ENG) can add opt-in for email anywhere the client would like.
 
-Screen Name is not captured when a user create an account for the first time.
+Screen Name is not captured when a user create an account for the first time. <-- no
 
-Instead the screen name is asked for when a user leaves a comment only.
+Instead the screen name is asked for when a user leaves a comment only. <-- no
 
 If we capture the screen name then we need a way to push screen name back to the universal profile. Yes
 
-Screen Name Rules - criteria for creating a name. Will be in final wires. (hand-off May 21, 2012)
+Screen Name Rules - criteria for creating a name. Will be in final wires. (hand-off May 21, 2012) <-- wouldn't the constraints be dictated by sears SSO, not by their wires?
 
 Use Cases
 
