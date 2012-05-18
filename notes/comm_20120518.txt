@@ -92,21 +92,19 @@ If someone has a sears account already, then the first time they login to commun
 2.1.3 Ask for screen name
 2.1.4 Continue with UCG
 
+
 3. Has Sears account. Has Communities account. No Screen Name
 
+3.1 User is Logged In 
+3.1.1 User is identified via SSO Cookie
+3.1.2 Ask for screen name
+3.1.3 Continue with UCG
 
-
-1. Existing Sears/Kmart (SSO) User - SIGNED IN
-2. On communities page and about comment
-
-Existing Sears/Kmart (SSO) User - NOT SIGNED IN
-
-
-1. Users are on sears profile, the sign in. Simple
-2. Users need to register for the first time.
-3. Users already have a profile, but no screen name, so me make them pick one.
-
-
+3.2 User is NOT Logged In 
+3.2.2 User is prompted with Condition 10 Login form
+3.2.3 User is authenticated via SSO
+3.2.4 Ask for screen name
+3.2.5 Continue with UCG
 
 Kathryns Notes
 
