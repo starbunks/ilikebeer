@@ -124,16 +124,3 @@ Notes:
 
 
 
-
-
-
-
-Hamid, BA - on every call
-Brendan, Dir - on every call
-Sebastian, Lead Web Dev  - on every call
-Tim, FE Web Dev - on every call
-Eddie, WordPress Expert - on every call
-Jason, FE Web Dev, WordPress Application Dev - on most of calls
-Brian, Lead Web Dev  - on almost every call
-
-
