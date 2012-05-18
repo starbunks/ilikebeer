@@ -92,6 +92,8 @@ If someone has a sears account already, then the first time they login to commun
 2.1.3 Ask for screen name
 2.1.4 Continue with UCG
 
+3. Has Sears account. Has Communities account. No Screen Name
+
 
 
 1. Existing Sears/Kmart (SSO) User - SIGNED IN
