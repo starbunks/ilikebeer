@@ -46,8 +46,8 @@
 		    wp-contents/
 			    uploads/	#-> ../../../../../uploads/
 			    plugins/	#-> ../../../plugins/
-			    themes/		#-> ../../../themes/
-	    themes/		#Contains *only* needed themes
+			    themes/	#-> ../../../themes/
+	    themes/	#Contains *only* needed themes
 	    plugins/	#Contains *only* needed plugins
     kohana/
 	    system/		#Contains the latest stable version of [kohana](http://kohanaframework.org/)
@@ -63,7 +63,7 @@
 
 #Theme and plugin folder layout
 
-    config/	#Holds any static config files that are specific to the theme. This could be used to pre-populate options for a theme inside the admin.
+    config/	#Holds any static config files that are specific to the theme or plugin. This could be used to pre-populate options for a settings menu inside the admin.
     assets/
 	    images/
 	    js/
