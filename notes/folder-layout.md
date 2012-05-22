@@ -43,10 +43,10 @@
     wordpress/
 	    core/	#Holds the typical wordpress. Only special files and folders noted here.
 		    wp-config.php #Copied over from the etc/wordpress/<environment>.php file on deploy.
-		    wp-contents/
-			    uploads/	#-> ../../../../../uploads/
-			    plugins/	#-> ../../../plugins/
-			    themes/	#-> ../../../themes/
+		    wp-contents/ #"Moved" to uxwpress location with constants in wp-config.php
+			    uploads/	#-> ../../../../../uploads/ #Symblink here for the URL constants
+			    plugins/	#-> ../../../plugins/ #Symblink here for the URL constants
+			    themes/		#Re-relocated back to it original place in /wp-content/ with the UPLOADS constant.
 	    themes/	#Contains *only* needed themes
 	    plugins/	#Contains *only* needed plugins
     kohana/
