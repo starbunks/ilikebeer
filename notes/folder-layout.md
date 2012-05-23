@@ -2,7 +2,7 @@
 
     Communities/
 	    public/
-		    wordpress/	#->../deploy/current/wordpress/core/
+		    wordpress/	#Copy of ../deploy/current/wordpress/core/
 	    cache/
 	    logs/
 	    deploy/		# this is the capistrano deployment folder
