@@ -1,0 +1,30 @@
+
+May 24, 2012
+
+
+
+Customer Service Page
+
+1-Wires - Stakeholder Review of Wires for Interest Pages | 6064 Social Communities Viewpoints Migration
+
+
+Featured Q & A Area - Select manually
+
+Experts need to be curated. Select the order of experts in CMS.
+
+Each Box is curratable by type (QA or Article, list of questions by category)
+
+Most Viewed Articles only has 2 and Most popular questions max of 3.
+
+
+
+All boxes in the mock up have the same row height, but some of the boxes could be double wide.
+
+
+Global share
+
+Follow Up
+
+How to do configurable interest pages. 
+
+
