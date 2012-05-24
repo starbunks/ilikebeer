@@ -2,8 +2,10 @@
 May 24, 2012
 
 
-
+*---------------------*
 Customer Service Page
+*---------------------*
+
 
 1-Wires - Stakeholder Review of Wires for Interest Pages | 6064 Social Communities Viewpoints Migration
 
@@ -26,5 +28,12 @@ Global share
 Follow Up
 
 How to do configurable interest pages. 
+
+
+
+*---------------------*
+	Polls
+*---------------------*
+
 
 
