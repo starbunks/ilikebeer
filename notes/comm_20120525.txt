@@ -26,9 +26,19 @@ When asking question the input box dynamically expands
 If 'customer service' category is selected then create a sub category list
 
 
-Page 15
+Page 14
 
 Ask a question - next, but if they are not logged, then send them to login, then goes to the expanded full question. Issue is how to retain the question.
+
+Page 15
+
+
+
+Reviewing: Visio-ECOMM Global Components v1.pdf
+
+Page 3 
+
+Screen name error handling. What happens if your screen name is already taken? How and where to handle an existing user.
 
 
 
