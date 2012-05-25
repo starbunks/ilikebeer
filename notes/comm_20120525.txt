@@ -1,0 +1,17 @@
+*---------------------*
+	May 25, 2012
+*---------------------*
+
+Reviewing: Communities_Q&A_5.23.12_v7.pdf
+
+Page 11
+
+If a user does not have a screen name then we need to prompt the user for it. After the question is posted we need to add it back to the user profile.
+
+When asking question the input box dynamically expands
+
+If 'customer service' category is selected then create a sub category list
+
+
+
+
