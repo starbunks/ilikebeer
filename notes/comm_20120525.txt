@@ -28,7 +28,7 @@ If 'customer service' category is selected then create a sub category list
 
 Page 14
 
-Ask a question - next, but if they are not logged, then send them to login, then goes to the expanded full question. Issue is how to retain the question.
+Ask a question - next, but if they are not logged, then send them to login, then goes to the expanded full question. Issue is how to retain the question. FOLLOW UP
 
 Page 15
 
@@ -40,5 +40,5 @@ Page 3
 
 Screen name error handling. What happens if your screen name is already taken? How and where to handle an existing user.
 
-
+AJAX inline validation - extra work for login. FOLLOW UP
 
