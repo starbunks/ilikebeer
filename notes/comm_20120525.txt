@@ -26,5 +26,9 @@ When asking question the input box dynamically expands
 If 'customer service' category is selected then create a sub category list
 
 
+Page 15
+
+Ask a question - next, but if they are not logged, then send them to login, then goes to the expanded full question. Issue is how to retain the question.
+
 
 
