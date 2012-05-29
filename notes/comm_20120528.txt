@@ -1,0 +1,35 @@
+*---------------------*
+	May 28, 2012
+*---------------------*
+
+The principle goal is migration of the view points blog to our own internal system.
+
+
+
+Comm 5/28
+
+Week Two
+
+5/21 - development started
+
+Architecture Direction - CH4 and URL
+SSO started - need to connect in a sucessful way to auth than profile
+User Stories Backlog Created
+Proof of concept - spike stories Q & A, comments on comments
+Home Page Admin
+Profile user attributes - flagging, voting
+
+5/28
+Infrastrucure discussions  start
+
+Follow Ups
+
+How to save user name. Is there a service to check user name selection?
+
+Someone asking a question without logging in? How do we save the question after login?
+
+How to perserve the redirect by content type?
+
+
+
+

@@ -48,4 +48,17 @@ Page 15
 Flagging also includes a reason why they are flagging it. FOLLOW UP
 
 
+Page 16 - 19 OUT because of media
 
+Page 20 - Vote
+
+The vote will toggle. Not logged in will cookie. Logged in will save the vote to the database.
+
+Page 21 - Communities existing picture and upload picture
+
+Page 22 - Follow 
+
+Page 23 - descoped 
+
+
+	
