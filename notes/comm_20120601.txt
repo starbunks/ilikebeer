@@ -1,0 +1,27 @@
+
+June 1, 2012
+
+* Modular Object Mapping for JavaScript
+
+* Login Architecture based on SSO and UX Wires. Complete
+
+Workflow for Voting, Flagging, Q&A (same as following)
+
+* CQ5
+
+
+Eddie 
+
+Post Widgets - Interests page
+
+UX 
+
+Harry
+
+Multisite
+
+Sebastian 
+
+User Action plugin - post actions. Objects
+
+
