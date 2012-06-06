@@ -6,3 +6,7 @@
 Expert page - remove author by category. Only team page with filter by category.
 
 Expert UI - routing questions. Reassign by user. Changing the category.
+
+Asset Deliverable List
+
+Remove Ad-Units from design and copy.
