@@ -3,3 +3,5 @@
 *---------------------*
 
 
+Expert page - remove author by category. Only team page with filter by category.
+
