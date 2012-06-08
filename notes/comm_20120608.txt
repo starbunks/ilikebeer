@@ -37,9 +37,27 @@ LDAP module compile - make install.
 
 User Action Plugin - query and admin - Done by Monday. 6/11
 
+Profanity Filter
 
+Open ID with SSO - need to find someone who has implemented it with SSO.
 
+Global Nav - menus
+
+UX.sears.com - 
 UX Portfolio
+Elgin Photo
+
+Connect.searspartsdirect.com
+
+
+QA & PJM Resource
+SFC - vertical search. prioritize
+
+
+Following Up - 
+
+Wiki - PHP 
+Jira - PHP
 
 
 
