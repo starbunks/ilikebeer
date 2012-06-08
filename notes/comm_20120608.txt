@@ -1,0 +1,42 @@
+*---------------------*
+	June 8, 2012
+*---------------------*
+
+http://mingle.intra.sears.com/projects/communities/wiki/Infrastructure
+
+https://jira.intra.sears.com/jira/secure/Dashboard.jspa
+
+OpenID expert who understands workflow.
+
+
+Interest pages - widgets saving. Storing sidebar as post meta. Done by Monday. 6/11
+
+BDC and KmartFashion - Brand carroseul.
+
+SSO finished starting profile. 
+
+User Taxonomy
+Comment Types
+Q & A framework.
+
+
+Multi Site review
+
+LDAP - modify the good one.
+Location - Sears city state. 
+
+
+Environment Changes for Communities
+sass editing -
+LDAP module compile - make install. 
+
+
+
+
+UX Portfolio
+
+
+
+Steve DeTolla
+
+
