@@ -16,9 +16,13 @@ BDC and KmartFashion - Brand carroseul.
 SSO finished starting profile. 
 
 User Taxonomy
+Badges
+
 Comment Types
 Q & A framework.
-
+Question custom post type. 
+Answer custom comment type.
+Flagging custom comment type. Done by Monday. 6/11
 
 Multi Site review
 
