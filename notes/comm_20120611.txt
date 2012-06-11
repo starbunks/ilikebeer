@@ -3,3 +3,24 @@
 *---------------------*
 
 
+Stand Up
+
+Eddie
+Interest Page working. Phase 1. Entire page can be widgetized.
+Would like to drag and drop side bars. generate sidebars. 
+
+Harry
+Analysis. LDAP - what is there, what is in required by the project
+Look through wires -
+
+
+Tim
+Login - CSS working with namespacing. 
+Home page portal - working on the grid
+Customize modal window
+
+
+Brian
+SSO - Integrate login process with Word Press
+
+
