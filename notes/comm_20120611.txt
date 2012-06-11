@@ -30,3 +30,10 @@ Q & A framework.
 Question custom post type. 
 Answer custom comment type.
 Flagging custom comment type. EOD Monday. 6/11
+
+Dan
+LDAP map to user meta data.
+
+2:00 PM Integration - meeting
+
+ODL Changes
