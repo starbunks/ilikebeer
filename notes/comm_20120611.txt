@@ -24,3 +24,9 @@ Brian
 SSO - Integrate login process with Word Press
 
 
+Jason
+Custom comment types refacturing
+Q & A framework.
+Question custom post type. 
+Answer custom comment type.
+Flagging custom comment type. EOD Monday. 6/11
