@@ -50,12 +50,16 @@ Elgin Photo
 Connect.searspartsdirect.com
 
 
-QA & PJM Resource
+
 SFC - vertical search. prioritize
 
 
 Following Up - 
 
+Ask Sundar about OpenID
+Assk Pavan about everything
+
+QA & PJM Resource
 Wiki - PHP 
 Jira - PHP
 
