@@ -28,7 +28,7 @@ How to save user name. Is there a service to check user name selection?
 
 Someone asking a question without logging in? How do we save the question after login?
 
-How to perserve the redirect by content type?
+How to preserve the redirect by content type?
 
 
 
