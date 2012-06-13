@@ -1,9 +1,12 @@
 
-Project Overview
+h2. Project Overview
+
+Work Lenz # 6064 - Social: Communities Viewpoints Migration 
 
 Convert a third party hosted website to an internal hosted site.
 
 Main Features:
+
 Content - blogs, articles, buying guides
 SSO / Profile integration
 LDAP authentication for content administration
@@ -12,7 +15,7 @@ User generated content - ask questions, answer questions, comment on content, vo
 Preserve 301 redirects from previous provider
 
 
-What we are building?
+h2. What we are building?
 
 A cluster of servers that will be the single end point that can handle multiple front paths. The server will handler requests from both sears.com/communities, kmart.com/communities. The first sites will be the communities, but the long term plan is to add other site using different URLs as the business needs.
 
@@ -29,29 +32,53 @@ sears.com/communities
 kmart.com/communities
 
 
-MISC
-
 Exclued Akamai - Do not edge cache sears.com/communities, kmart.com/communities.
 
 Signed Cert - Can we use the Global Cert?
 
+Datacenter CH4 - we need to be in CH4 because of the root level URL
 
-Shopping List
+Stateadm - all application server require the 'stateadm' user
+
+Preferred server namespace: php40X.
+
+h2. Shopping List
 
 Production
 
 www - 5 VMs (1 core, 4 GB RAM, 20 GB Harddrive)
-Storage - NFS Mount for media (images) 100 GB shared across the cluster. Ability to scale up to 500 GB.
+Storage - NFS Mount for media (images) 200 GB shared across the cluster. Ability to scale up to 500 GB.
 Utility - 1 VM (1 core, 4 GB RAM, 20 GB Harddrive). Standalone server for crons, responsys and reporting.
 Memcache - 1 physical server 16 GB RAM scale up to 64 GB
 Database - 100 GB dedicated cluster. Ability to scale up to 500 GB.
 
+QA
+
+www - 2 VMs (1 core, 4 GB RAM, 20 GB Harddrive)
+Storage - NFS Mount for media (images) 100 GB shared across the cluster. Ability to scale up to 500 GB.
+Utility - 1 VM (1 core, 4 GB RAM, 20 GB Harddrive). Standalone server for crons, responsys and reporting.
+Memcache - 1 VM (1 core, 4 GB RAM, 20 GB Harddrive)
+Database - 100 GB QA cluster. Ability to scale up to 500 GB.
 
 
 Appendix
 
 
-VM - 
+VMs - (1 core, 4 GB RAM, 20 GB Harddrive), CentOS, NGINX, PHP-FPM
+
+Analytic data of site useage
+
+Escalation list TBD.
+
+
+
+
+
+
+
+
+
+
 
 
 Between load balancer and app we can use the global cert
