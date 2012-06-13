@@ -5,7 +5,7 @@ Work Lenz # 6064 - Social: Communities Viewpoints Migration
 
 Convert a third party hosted website to an internal hosted site.
 
-Main Features:
+Development Overview
 
 Content - blogs, articles, buying guides
 SSO / Profile integration
@@ -13,6 +13,37 @@ LDAP authentication for content administration
 Question and Answers
 User generated content - ask questions, answer questions, comment on content, vote on content, flag content as inappropiate.
 Preserve 301 redirects from previous provider
+
+
+
+2	Product Overview
+2.1	Mission
+To provide an online social support community that replicates in-person interaction and conversation so that customers and prospective customers access information, customer service and expert advice from SHC associates, vendors and fellow members while providing invaluable feedback and customer behavior understanding to SHC.
+2.2	Strategy
+•	Provide an online social support platform
+•	Strengthen Customer Engagement
+•	Leverage community feedback and insights
+2.3	Objectives
+1.	Deliver Phase 1 release of Communities by End of August 29,2012 to migrate Communities and Reviews off of the Viewpoints platform. 
+2.	Deliver Phase 2 release of additional functionality in two week iterations beginning August 29, 2012 through October 30, 2012. 
+
+2.4	Guiding Principles
+To be the leader in online social support communities and delight our customers through every touchpoint.  
+
+1. For Customers:
+•	to connect with SHC, product experts and enthusiasts: ask questions, share advice and feedback, receive answers
+•	to be heard, to be helped, to receive excellent customer care
+•	to find Information: Guides, Articles, Blogs, Videos, etc. 
+
+2. For SHC: 
+•	a deeper engagement with our customers to create brand ambassadors
+•	reduce contact costs through digital interactions
+•	to drive conversion/sales by influencing, shaping, informing and enabling customer shopping behaviors and buying decisions
+•	ongoing feedback on our products and marketing initiatives
+•	valuable UGC which is optimized for SEO and is considered more reliable
+•	to connect our customers with our brands, products and initiatives, to provide increased customer conversion and in turn increase lifetime value.
+
+
 
 
 h2. What we are building?
