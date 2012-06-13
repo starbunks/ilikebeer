@@ -1,0 +1,92 @@
+
+Project Overview
+
+Convert a third party hosted website to an internal hosted site.
+
+Main Features:
+Content - blogs, articles, buying guides
+SSO / Profile integration
+LDAP authentication for content administration
+Question and Answers
+User generated content - ask questions, answer questions, comment on content, vote on content, flag content as inappropiate.
+Preserve 301 redirects from previous provider
+
+
+What we are building?
+
+A cluster of servers that will be the single end point that can handle multiple front paths. The server will handler requests from both sears.com/communities, kmart.com/communities. The first sites will be the communities, but the long term plan is to add other site using different URLs as the business needs.
+
+
+URLs
+
+Existing:
+mysears.com - sears owned
+mykmart.com - sears owned
+
+
+New:
+sears.com/communities
+kmart.com/communities
+
+
+MISC
+
+Exclued Akamai - Do not edge cache sears.com/communities, kmart.com/communities.
+
+Signed Cert - Can we use the Global Cert?
+
+
+Shopping List
+
+Production
+
+www - 5 VMs (1 core, 4 GB RAM, 20 GB Harddrive)
+Storage - NFS Mount for media (images) 100 GB shared across the cluster. Ability to scale up to 500 GB.
+Utility - 1 VM (1 core, 4 GB RAM, 20 GB Harddrive). Standalone server for crons, responsys and reporting.
+Memcache - 1 physical server 16 GB RAM scale up to 64 GB
+Database - 100 GB dedicated cluster. Ability to scale up to 500 GB.
+
+
+
+Appendix
+
+
+VM - 
+
+
+Between load balancer and app we can use the global cert
+
+Meet with Net Eng. Single end point that can handle multiple front paths.
+
+One VIP. 
+
+MySQL Cluster instance - store. 100 GB of storage
+
+memcache - physical hardware. Need to procure it. ability to increase memory. 16 - 32 GB of RAM. 
+
+200 GB for NFS
+
+4 GB, one chip, 20 GB of disk
+
+stateadm access
+
+Requirements doc - put in the data.
+
+Database team - Storage team
+
+
+WorkLenz - number.
+
+
+Monitoring team - escalation information.
+
+Andy & Brad - profanity filter. 
+
+
+
+Order 
+
+Wiki
+Jira
+
+
