@@ -1,0 +1,22 @@
+
+LDAP
+
+SSO Plugin to automatically create users from SSO login
+Admin Area -
+
+Blocked by profile key QA and Production CIS.
+
+OpenID
+
+Drop Zone plug in. Home Page, Customer Service Page, Interest page
+
+Making the page modules
+
+Custom Content Type 
+
+
+Meeting - 
+KmartFashion zoomable images. Next phase.
+
+
+Need to be more descriptive. 
