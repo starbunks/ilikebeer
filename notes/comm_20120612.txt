@@ -1,7 +1,8 @@
 
 
 
-LDAP 
+LDAP - made into a plugin
+
 Gap Analysis LDAP vs WP vs PRD. 
 
 SSO Plugin to automatically create users from SSO login
