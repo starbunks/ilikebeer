@@ -9,7 +9,7 @@ Gap Analysis LDAP vs WP vs PRD.
 SSO Plugin to automatically create users from SSO login
 Admin Area for configuration
 
-Blocked by profile key QA and Production CIS.
+Blocked by profile key QA and Production CIS. Andy Zhong
 
 OpenID
 
