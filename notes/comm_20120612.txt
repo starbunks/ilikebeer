@@ -1,5 +1,8 @@
 
-LDAP
+
+
+LDAP 
+Gap Analysis LDAP vs WP vs PRD. 
 
 SSO Plugin to automatically create users from SSO login
 Admin Area -
@@ -13,6 +16,7 @@ Drop Zone plug in. Home Page, Customer Service Page, Interest page
 Making the page modules
 
 Custom Content Type 
+
 
 
 Meeting - 
