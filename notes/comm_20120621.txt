@@ -1,0 +1,18 @@
+
+
+
+Project impacted is communities:
+
+Communities 
+
+We started 960, last Friday June 15, 2012 Andrew said 977. Monday & Tuesday 18-19 came up with a compromise of 978
+
+978 is required because can not do a grid on a prime number.
+
+6 columns 161 with 1 pixel gutter on either side.
+
+
+Benefits Grid Layout - No new template, reusable code, easy maintenance.
+
+
+
