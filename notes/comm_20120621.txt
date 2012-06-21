@@ -14,10 +14,12 @@ We started 960, last Friday June 15, 2012 Andrew said 977. Monday & Tuesday 18-1
 
 Benefits Grid Layout - No new template, reusable code, easy maintenance.
 
-Impact on 960 on Engineering - minimal because we have scaffolding is built using skeleton.
+Impact on 960 on Engineering
+
+Minimal because we have scaffolding is built using skeleton.
 
 Impact on 960 on Design - redo design back to 960 instead of 977.
 
-Impact of 977 is a week of development impact for us.
+Impact of 977 on Engineering is an extra week of development.
 
 
