@@ -14,16 +14,23 @@ Stand Up
 * Sebastian 
 	UX Dev - Multi-Site. Complete
 	User Action Plugin - Complete
-	User Action - Moderation
+
 
 * Eddie
 	Interest Pages Admin. Complete. Hand off to FED
 	Custom Comment Type. Complete
 
 * Dan 
+	LDAP expert/moderator login. Complete
+	SSO/Profile connectivity backend. Complete
 	
-	
-	
+
+This week:
+
+User Action - Moderation	
+Open ID - integration
+Harry, TI - experts widget
+
 Scaffolding for the grid.
 
 
