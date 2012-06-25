@@ -99,4 +99,10 @@ d.      Log-in and registration from front-end perspective is finished
 2.      In Progress > next two weeks
 
 
-This week
+
+
+h2. Jira Request - https://jira.intra.sears.com/jira/browse/SVN-7832
+
+h2. Email Request - complete
+
+h2. Wiki Request - 
