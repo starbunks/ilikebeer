@@ -24,23 +24,25 @@ Stand Up
 	LDAP expert/moderator login. Complete
 	SSO/Profile connectivity backend. Complete
 	
+* Tim/Carl
+	960 Scaffolding. Complete
+	
 
-This week:
+	
+h2. This week June 25th:
 
-User Action - Moderation	
-Open ID - integration
-Harry, TI - experts widget
-
-Scaffolding for the grid.
-
-
-Eddie 
-Finished the 
-Custom comment type
+* User Action - Moderation	
+* Open ID - integration
+* Harry, TI - experts widget
 
 
-Profanity Filter
-Login via Facebook connect
+h2. Next week July 2nd:
+
+* Profanity Filter
+
+
+
+
 
 Infrastructure
 Search results - are we using excerpts? How does it work with images.
