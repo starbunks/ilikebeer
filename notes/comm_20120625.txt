@@ -54,11 +54,30 @@ h2. Next week July 2nd:
 
 
 
+h1. Status for Don June 25, 2012
+
+h2. Complete since last status
+
+* UX Dev - Multi-Site. Complete
+* User Action Plugin - Complete
+* LDAP expert/moderator login. Complete
+* SSO/Profile connectivity backend. Complete
+* Front end 960 Scaffolding. Complete
 
 
+h2. This week June 25th:
 
+* Interest Pages Admin.
+* Custom Comment Type.
+* User Action - Moderation	
+* Open ID - integration
+* Harry, TI - experts widget
+* Front end - Integration with Home page admin and design.
 
+h2. Next week July 2nd:
 
+* Profanity Filter
+* Infrastructure, QA
 
 
 
