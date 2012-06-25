@@ -29,11 +29,12 @@ Stand Up
 	Integration with Home page admin and design.
 	Slicing images
 
+* Blockers
+
+	Smart Search is not phase 1
 	Search results - are we using excerpts? How does it work with images.
-	Sub-categories
 	Infinite scroll - what are we doing? When we doing a see more
-	Alpha and Omega of css with every permutation
-	3, 4, 6, 8, 9, 12
+	Limited grid permutations (3, 4, 6, 8, 9, 12)
 	
 
 	
