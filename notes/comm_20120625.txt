@@ -33,6 +33,8 @@ Stand Up
 	
 h2. This week June 25th:
 
+* Interest Pages Admin.
+* Custom Comment Type.
 * User Action - Moderation	
 * Open ID - integration
 * Harry, TI - experts widget
