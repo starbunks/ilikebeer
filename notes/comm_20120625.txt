@@ -1,0 +1,26 @@
+
+*------------------------------*
+June 25 2012
+*------------------------------*
+
+Stand Up
+
+
+Status for Don:
+
+Last Weeks
+Agenda – 
+ 
+Follow-ups from last update:
+1.      Data verification step for migrated content (Judy)
+2.      What is the performance against current: our service vs. Viewpoints (Pavan)
+Community - Engineer Update:  (Brendan)
+1.      Milestones
+a.       Connected with SSO successfully; made it a plug-in for WordPress 
+b.      LDAP will be finished at the end of the week
+c.       Admin configuration for home page, customer service page and interest pages > architecture design is complete
+d.      Log-in and registration from front-end perspective is finished
+2.      In Progress > next two weeks
+
+
+This week
