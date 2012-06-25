@@ -13,8 +13,8 @@ Stand Up
 
 * Sebastian 
 	UX Dev - Multi-Site. Complete
-	User Action Plug - complete
-	User Action - admin section
+	User Action Plugin - Complete
+	User Action - Moderation
 
 * Eddie
 	Interest Pages Admin. Complete. Hand off to FED
