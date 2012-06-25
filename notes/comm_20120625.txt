@@ -105,4 +105,5 @@ h2. Jira Request - https://jira.intra.sears.com/jira/browse/SVN-7832
 
 h2. Email Request - complete
 
-h2. Wiki Request - 
+h2. Wiki Request - Requested 6/25
+
