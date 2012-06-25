@@ -28,6 +28,12 @@ Stand Up
 	960 Scaffolding. Complete
 	Integration with Home page admin and design.
 	Slicing images
+
+	Search results - are we using excerpts? How does it work with images.
+	Sub-categories
+	Infinite scroll - what are we doing? When we doing a see more
+	Alpha and Omega of css with every permutation
+	3, 4, 6, 8, 9, 12
 	
 
 	
@@ -43,17 +49,13 @@ h2. This week June 25th:
 h2. Next week July 2nd:
 
 * Profanity Filter
+* Infrastructure, QA
 
 
 
 
 
-Infrastructure
-Search results - are we using excerpts? How does it work with images.
-Sub-categories
-Infinite scroll - what are we doing? When we doing a see more
-Alpha and Omega of css with every permutation
-3, 4, 6, 8, 9, 12
+
 
 
 
