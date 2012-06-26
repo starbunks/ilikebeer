@@ -140,4 +140,8 @@ Jason
 - Image Zoom Bug. 
 
 Next - Testing, New bug in Kmart Lookbook Header
-
+	- BDC party package pages
+	
+Dan
+- SSO plugin on Dev. Not working. Flowed out the code. Need to talk with Brian.
+- 
