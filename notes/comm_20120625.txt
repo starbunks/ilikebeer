@@ -107,3 +107,25 @@ h2. Email Request - complete
 
 h2. Wiki Request - Requested 6/25
 
+
+*------------------------------*
+June 26 2012
+*------------------------------*
+
+Out Of Office
+
+Hamid 6/29/2012
+
+Eddie 
+- Widget meta box, drop zone plugin. EOD
+- Refactor Custom Comment Types
+
+Next - implementing Custom Comment Types with Tim & Carl
+
+Sebastian
+
+- MyGofer Blog - Symlinks into a non-symlink folder. 
+- More plugin work
+
+
+Hamid
