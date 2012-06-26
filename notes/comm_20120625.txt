@@ -129,3 +129,15 @@ Sebastian
 
 
 Hamid
+
+- BDC launch 8/23
+- Templating for the home page, interest page
+
+Jason
+
+- Kmart Fashion removed featured image and to have
+- Lookbook - Product Modal color switcher
+- Image Zoom Bug. 
+
+Next - Testing, New bug in Kmart Lookbook Header
+
