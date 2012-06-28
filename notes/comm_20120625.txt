@@ -172,5 +172,10 @@ Dan
 Eddie
 
 - Custom Comment Types - flags vs comments. Actual flag button
-- WidgetPress (Widget meta box, drop zone plugin.)
+- WidgetPress (Widget meta box, drop zone plugin.) Fixed Set of sidebars. 
+
+Carl
+
+- Creating config for comps and configs for generic fonts information and tags.
+- Customer
 
