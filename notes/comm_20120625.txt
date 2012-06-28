@@ -226,6 +226,6 @@ UX Portfolio - Need PRD?
 
 * Sears and Kmart Ribbon is different.
 * Kmart Footer is very different from Sears.
+* Avatar - mysears.com / myKmart.com
 
-mysears.com / myKmart.com - avatar
 
