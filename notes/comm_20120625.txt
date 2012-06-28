@@ -177,5 +177,46 @@ Eddie
 Carl
 
 - Creating config for comps and configs for generic fonts information and tags.
-- Customer
+- Customer Service Page meeting yesterday. Many open questions
 
+Tim
+
+- dev environment. Template setup. 
+
+
+
+* Widget Press Demo
+
+- Number of drop zones
+- Drop Zone Templates.
+
+
+* Blocker 
+
+- Need an email from designers about final color and fonts.
+- Design does not match wire. Copy is in wires and in design. Examples.
+- We need final taxonomy.
+- We need UX, Design and Copy to tell us what the final. 
+	Example: Recent Activities b/c of multiple stats.
+
+
+Design Engineering Needs
+
+- REMINDER: Anything not designed we can make decision
+- Drop down. Pulling from Sears
+- Permanent Header
+- Infinite Scroll
+- Change management
+
+
+h2. Follow Up
+
+Login
+
+KmartFashion Header - Complete.
+Elgin Photo Studio - Need to review the PRD. Remove multiple images
+ODL Sears Style - Flash iFrame. Hamid to follow up
+BDC - Filter FB and Twitter. Wasting time trying to filter if they never post anything on FB for Birthday Club
+MyGofer - July 10th launch. 
+
+UX Portfolio - Need PRD?
