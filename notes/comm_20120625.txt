@@ -222,3 +222,10 @@ MyGofer - July 10th launch.
 UX Portfolio - Need PRD?
 
 
+
+
+* Sears and Kmart Ribbon is different.
+* Kmart Footer is very different from Sears.
+
+mysears.com / myKmart.com - avatar
+
