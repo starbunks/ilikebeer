@@ -161,3 +161,16 @@ June 27 2012
 *------------------------------*
 
 
+Sebastian
+
+- uxdev deploy
+
+Dan
+
+- Profile Andy Zhoung. Blocked receiving 401
+
+Eddie
+
+- Custom Comment Types - flags vs comments. Actual flag button
+- WidgetPress (Widget meta box, drop zone plugin.)
+
