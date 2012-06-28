@@ -154,3 +154,10 @@ Carl
 Tim
 - Rolling out the WP theme. Added CSS.
 - Header and Footer. The footer is not an issue. The header. 
+
+
+*------------------------------*
+June 27 2012
+*------------------------------*
+
+
