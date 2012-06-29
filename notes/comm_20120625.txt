@@ -233,3 +233,26 @@ UX Portfolio - Need PRD?
 June 29 2012
 *------------------------------*
 
+Need to 
+
+Tim
+
+- Header footer
+
+Eddie
+Widget Press and Custom Comment Type
+
+Jason
+
+- Birthday Club
+
+Harry
+
+- Experts widget. Using profile LDAP plugin
+
+Dan
+
+- Needs to connect to profile
+
+
+
