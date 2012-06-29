@@ -1,0 +1,8 @@
+
+
+For Copy
+- Static content go with design
+- Dyanmic go with the wires
+
+Ask Judy for all questions about difference between wires and comps.
+
