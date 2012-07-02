@@ -31,14 +31,40 @@ To compile all the final
 
 * Judy follow up
 
-Open ID - can we just use Facebook login.
-Status of migration to talk with
+- Open ID - can we just use Facebook login.
+- Status of migration to talk with
 
 
 * Jason
 
-BDC, Disney Party Package
-ODL - Adam Benedecort
+- BDC, Disney Party Package
+- ODL - Adam Benedecort
 
+* Eddie
 
+- commenting
+- interest page with javascript
+- Login work via front end
 
+* Tim 
+
+- New direction reducing the # of http requests
+- Theme build out
+- Header
+- Footer
+
+* Carl
+
+- spriteing, make our own. Working on positioning of it
+- compiling java script (minifying, )
+
+* Harry
+
+- Experts widget (city, state, badges) - 
+- Showing via a taxonomy and
+- Moderator Dashboard using SVG
+ 
+* Dan
+
+- SSO works. Refactor
+_ Profile scheduling meeting with Profile. Digital Signatures
