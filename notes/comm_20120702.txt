@@ -9,4 +9,21 @@ We will have to scrap sears
 Need different states for recent activity
 Notes from Designers on what needs to be changed
 
-Are we getting.
+Are we getting files that will say 'final' or do we use the lastest of each file.
+
+The big problem is UX never gave numbered which page is which and the files from multiple designers, copy and UX are all named different.
+
+We have not received anything that is approved.
+
+
+Judy follow up
+
+Open ID - can we just use Facebook login.
+Status of migration to talk with
+
+
+BDC, Disney Party Package
+ODL - Adam Benedecort
+
+
+
