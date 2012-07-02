@@ -2,7 +2,16 @@
 July 2 2012
 *------------------------------*
 
-Missing 
+* Outstanding
+
+# Profile
+# Open ID
+# Profanity Filter
+# Memcache
+
+
+
+* MISSING
 
 Received the style guide, but missing fonts.
 We will have to scrap sears
@@ -15,12 +24,18 @@ The big problem is UX never gave numbered which page is which and the files from
 
 We have not received anything that is approved.
 
+* Hamid
 
-Judy follow up
+To compile all the final
+
+
+* Judy follow up
 
 Open ID - can we just use Facebook login.
 Status of migration to talk with
 
+
+* Jason
 
 BDC, Disney Party Package
 ODL - Adam Benedecort
