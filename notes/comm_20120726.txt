@@ -1,3 +1,8 @@
+Parts CMS Server
+
+System's Eng - removed MySQL from the server.
+
+
 Hamid
 
 BU from Toys b/c BDC. Issue. Bug related to WordPress. 
@@ -30,4 +35,18 @@ Using modal from Kenmore.
 Lazy load to load widget scripts
 Login - next
 
+
+Sebastian
+
+templates for Single
+QA Servers - waiting on MySQL (Richard Byrd)
+
+
+Dan
+
+Profile Page - working with Carl. Creating the modal and templates
+
+Sean
+
+Setup github, sparkleshare
 
