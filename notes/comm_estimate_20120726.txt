@@ -23,3 +23,14 @@ SYWR number and
 Batch, weekly process.
 
 Need a centralized process
+
+
+
+See Also 
+tech-docs/Product-Ratings_and_Reviews_REST_API.pdf
+tech-docs/SYWR_Loyalty_Services_API.docx
+
+
+Follow Up 
+
+Estimate Due 8/3/2012
