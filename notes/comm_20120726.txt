@@ -22,31 +22,37 @@ Community Training for adding stuff manually
 
 Jason
 
-[8.0] Manual List 
-[6.0] Content List 
-Pagination and infinate scroll
+* [8.0] Manual List 
+* [6.0] Content List 
+* Pagination and infinate scroll
 
 
 Tim
 
-Post a question. 
-Persistent header
-Using modal from Kenmore.
-Lazy load to load widget scripts
-Login - next
+* Post a question. 
+* Persistent header
+* Using modal from Kenmore.
+* Lazy load to load widget scripts
+* Login - next
 
 
 Sebastian
 
-templates for Single
-QA Servers - waiting on MySQL (Richard Byrd)
+* templates for Single
+* QA Servers - waiting on MySQL (Richard Byrd)
 
 
 Dan
 
-Profile Page - working with Carl. Creating the modal and templates
+* Profile Page - working with Carl. Creating the modal and templates
 
 Sean
 
-Setup github, sparkleshare
+* Setup github, sparkleshare
+* Worked with Carl & Tim
 
+
+Eddie
+
+* fixed drop zone and section front plugin
+* finish results list today
