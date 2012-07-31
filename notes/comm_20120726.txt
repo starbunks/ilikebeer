@@ -9,12 +9,13 @@ BU from Toys b/c BDC. Issue. Bug related to WordPress.
 
 Estimate for Jake's party package. Content update from out side. Launch Tuesday 8/31
 
-ODL - launch 8/21
+
 
 Need to connect with Katryn.
 
+ODL - launch 8/21. Done
 Bug with BDC. Moving to WCS
-She wants an HTML review
+HTML review - link to stuff in QA.
 
 
 Community Training for adding stuff manually
@@ -56,3 +57,16 @@ Eddie
 
 * fixed drop zone and section front plugin
 * finish results list today
+
+
+Shafeeg
+
+
+
+Setup Shafeeg & Sean. Mingle, Jira and wiki
+
+
+Carl
+
+* Profile
+* Threaded discussion
