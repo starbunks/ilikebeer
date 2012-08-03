@@ -1,0 +1,77 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf470
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Calibri;\f2\froman\fcharset0 TimesNewRomanPSMT;
+}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww11640\viewh9720\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\b\fs24 \cf0 Hamid
+\b0  - User Stories / Estimation meeting / Permalink Meeting / Estimation for ODL to change Hero images\
+\
+
+\b Sean
+\b0  - Update Test Cases on Greendale | Converted to Google Doc | Continue going through test cases \
+
+\b \
+Jason
+\b0  - Eddie's ToDo's | Allow User Customization in Post Widget (ability to attribute category to it) | Pushed up Buying Guides Post Type (now in Admin) | Today finishing up on Widget (To Dos) | FInish rewrite rule for Buying Guides.\
+
+\b \
+Carl
+\b0  - Finished About Me (html/css) page -> need to push | worked with Eddie to consolidate code (featured question category specific)  \
+\
+
+\b Brendan
+\b0  - Estimation for Ratings and Reviews (finished) | Meeting with Casey regarding conversion data | Todd (Viewpoints) and Sebastian (Point) | Today follow up on laptop requests | Temp Services for Jason issues | Patrick Zyrpinski (new FED manager for Core team) | Connect with Hamid to get status  | Red on Migration due to lack of miscommunication with Viewpoints + QA Database | Shafeeg to join meeting for Communities Email with Krystal at 10:30  | Meeting with new recruiter (Dysis and Apex) | Meeting at 1:30 p.m. with Omniture with Judy. \
+\
+
+\b Dan 
+\b0 - 	OpenID User Interface for Widget (can't override styles) | profile page integrating FED with BED (minus Recent Activity) - Finish up integration - Work on AJAX pagination (More Button) - \
+\
+
+\b Tim
+\b0  - Javascript\
+\
+
+\b Eddie
+\b0  - sent email with update***\
+
+\f1\fs28 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+\cf0 1. Discussed permalink structure \'96 explained it to hamid as such...
+\f2\fs32 \
+
+\f1\fs28 Single -                        .com/<subdir>/<post-type>/<post-slug> \
+Tax/Interest pages    .com/<subdir>/category/<term-slug>/<term-slug*>/<post-type-filter*> \
+Profile                         .com/<subdir>/profile/<username>/<post/comment-type-filter*> \
+\
+Subdir            = site subdirectory, \'93community\'94 for example.\
+<...>                = variable fields (no brackets means static string)\
+* (asterisk)    = optional, these bits are additional endpoints add more specificity to the request.\
+\
+\
+It occurred to me later that the tax/interest pages could also just as easily (if not easier) be done in this fashion...
+\f2\fs32 \
+
+\f1\fs28 .com/<subdir>/<post-type-filter*>/category/<term-slug>/<term-slug*> \
+\
+It\'92s mostly a matter of preference \'96 either way works fine and I don\'92t think either way would be any harder than the other. The latter simply wouldn\'92t be an endpoint mask and so we\'92de have to add those rewrite rules individually for each post type \'96 which is no big deal at all.\
+\
+2. Cleaned and finished all the \'93Featured\'94 widgets. This includes the two Featured Questions widget as well as the Featured Posts and Buying Guides widgets. The headers and footers for these are now centralized within the header-widget.php and footer-widget.php files.\
+\
+3. Took category-tim.php and made pages out of them. There is now a /login, /register, and /forgot-password. These are actual \'93Pages\'94 in wordpress that just serve as palceholders so the slugs will hit the page-login.php, page-register.php and page-forgot-password.php templates respectively.\
+\
+none of this actually functions, just mapping things to the correct templates.\
+\
+4. Moved several of Tim and Carl\'92s template to the fed-templates directory, where I\'92ve been placing the templates they\'92ve created once I\'92ve finished making the into widgets or whatever they are supposed to be.\
+\
+5. Did a bunch of reading about endpoint bitmasks in wordpress for the url structure of the profile pages \'96 this is possibly what we\'92ll need to do to filter the profile by post/comment type.\
+\
+6. Added the rewrite rules for questions \'96 did it while investigating general permalink structire stuff and the endpoint bitmasks.\
+\
+Big items left to do for me: (level of effort, 1-10)
+\f2\fs32 \
+
+\f1\fs28 Backend for results list widget(4) \
+Recent Activity widget (7) \
+Rewrite rules (the endpoints for filtering taxonomy archives and profile pages by post/comment type (2) }
