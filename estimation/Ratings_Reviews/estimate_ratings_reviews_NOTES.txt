@@ -1,6 +1,0 @@
-
-h2. Due - August 3rd
-
-h2. Adding reviews to communities 
-
-h3. Write Reviews# Search products to write review on (H) # WAR, Write A Review form (Same form as .com) (H)	# Can only write a review on products that the user has not written review previously	# If Approved, take to stand alone review	# If Pending, display pending message	# If Rejected, take to Edit (WAR form with previously entered text and user friendly rejection reason)	# Confirmation page with previously purchased and not reviewed items (M)h2. Read reviews# All Reviews (sears.com/community/reviews) (H)	# E.g. http://reviews.homedepot.com/1999/allreviews.htm# Review pages for product pages (H)	# Buy Now that takes to .com# Search that only searches products with reviews (L)h2. Profile# My Reviews (H)# Public Profile (H)
